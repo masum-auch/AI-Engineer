@@ -187,8 +187,3 @@ Extra Topics You May Learn Later
 * Databases (SQLite, SQLAlchemy)
 * NumPy basics
 * Pandas basics
-
----
-
-If you want, I can add **examples**, **exercises**, or **full explanations** under each topic—just tell me, Captain!
-
