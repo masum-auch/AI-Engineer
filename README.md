@@ -4,4 +4,4 @@ Focused on healthcare innovation with early disease detection and predictive ana
 Continuously exploring machine learning and data science to build impactful, intelligent, and accessible solutions for society.
 
 
-Author------(Masum)
+Author------(Masum).
